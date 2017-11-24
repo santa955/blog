@@ -71,6 +71,12 @@ theme: huno
 #   monthly: false
 #   daily: false
 
+# browsersync
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
