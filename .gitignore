@@ -1,7 +1,11 @@
 .DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
+node_modules
+.yo-rc.json
+npm-debug.log
+.idea/
+dist/
+**/.sass-cache
+.vscode
+package-lock.json
+.editorconfig
+log/
